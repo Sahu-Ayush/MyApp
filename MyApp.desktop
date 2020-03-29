@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MyApp
+Version=0.1
+Exec=python3.8 /home/ayush/Python_programs/first_tkinter_program.py
+Icon=/home/ayush/python-logo.png
+Comment=hello world app print via GUI (tkinter)
+Type=Application
+Terminal=false
+StartupNotify=true
+Categories=GTK;GNOME
